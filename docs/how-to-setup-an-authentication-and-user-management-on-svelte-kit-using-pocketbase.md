@@ -400,7 +400,8 @@ For more information about authentication with Github OAuth, please refer to the
 - [Github Documentation](https://developer.github.com/apps/building-oauth-apps/authorizing-oauth-apps/)
 - [PocketBase documentation](https://docs.pocketbase.dev/).
 - [This video on how to Protect roiutes](https://www.youtube.com/watch?v=UbhhJWV3bmI)
-- [Article using Gitlab](https://haseebmajid.dev/posts/2022-12-20-how-to-setup-oauth2-with-sveltekit-and-pocketbase/)
+- [Attack vector arising from naive developer use of the +layout.server.js tree ](https://github.com/sveltejs/kit/issues/6315)
+- [Tutorail inspiration using Gitlab](https://haseebmajid.dev/posts/2022-12-20-how-to-setup-oauth2-with-sveltekit-and-pocketbase/)
 - [Using sveltekit-auth by Vercel](https://vercel.com/blog/announcing-sveltekit-auth)
 
 Also, you can find a working example of authentication with Github OAuth on the [SvelteKit Authentification project on Github](https://github.com/waveupHQ/sveltekit-authentification.git).
