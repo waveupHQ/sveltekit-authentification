@@ -388,3 +388,19 @@ Now we can access to the user object on any page :
 {/if}
 
 ```
+
+## Conclusion
+
+In this tutorial, we’ve gone through a step by step guide to implement authentication system with Github OAuth in a Svelte application. We’ve learned how to create routes for the login, logout and callback endpoints, how to protect pages, and how to access to the user session data. By following this guide, you should be able to quickly implement authentication system in your own project.
+
+## Resources
+
+For more information about authentication with Github OAuth, please refer to the :
+
+- [Github Documentation](https://developer.github.com/apps/building-oauth-apps/authorizing-oauth-apps/)
+- [PocketBase documentation](https://docs.pocketbase.dev/).
+- [This video on how to Protect roiutes](https://www.youtube.com/watch?v=UbhhJWV3bmI)
+- [Article using Gitlab](https://haseebmajid.dev/posts/2022-12-20-how-to-setup-oauth2-with-sveltekit-and-pocketbase/)
+- [Using sveltekit-auth by Vercel](https://vercel.com/blog/announcing-sveltekit-auth)
+
+Also, you can find a working example of authentication with Github OAuth on the [SvelteKit Authentification project on Github](https://github.com/waveupHQ/sveltekit-authentification.git).
