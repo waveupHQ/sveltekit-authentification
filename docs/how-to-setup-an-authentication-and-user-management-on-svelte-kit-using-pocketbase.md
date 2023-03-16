@@ -36,7 +36,7 @@ Here's a step-by-step plan for building an authentication and user management sy
 @import "tailwindcss/components";
 @import "tailwindcss/utilities";
 
-/* Add custom styles here */
+/* Add custom styles here */"
 
 </style>
 ```
